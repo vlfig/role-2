@@ -1,3 +1,3 @@
 ---
 - name: echo param
-  debug: msg="this is v1 of role-2 and you provided greeting={{ greeting }}"
+  debug: msg="this is v2 of role-2 and you provided greeting={{ greeting }}"
